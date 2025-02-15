@@ -8,6 +8,8 @@
 Atualmente:
 HTML, EJS, CSS, Tailwindcss, SCSS, Typescript, React, ReactNative, Macarrão alho e óleo.
 
+<small>
 Projetos futuros:<br>
 Basap (em construção)<br>
 fksalink (adiado para 2030)
+</small>
