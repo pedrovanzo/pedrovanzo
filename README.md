@@ -10,5 +10,5 @@ HTML, EJS, CSS, Tailwindcss, SCSS, Typescript, React, ReactNative, Macarrão alh
 
 
 #### Projetos futuros:
-Basap (em construção)<br>
+Basap (em desenvolvimento)<br>
 fksalink (adiado para 2030)
