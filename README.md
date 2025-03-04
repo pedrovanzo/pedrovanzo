@@ -10,6 +10,6 @@ HTML, EJS, CSS, Tailwindcss, SCSS, Typescript, React, ReactNative, Macarrão alh
 
 
 #### Projetos futuros:
-<a href="https://github.com/pedrovanzo/react-shop">react-shop</a><br>
+<a href="https://github.com/pedrovanzo/react-shop">react-shop</a> em desenvolvimento<br>
 Basap (em desenvolvimento)<br>
 fksalink (adiado para 2030)
